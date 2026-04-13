@@ -46,13 +46,13 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ADD USERNAME]&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=user=luisgutierrez001&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ADD USERNAME]&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user=luisgutierrez001&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[ADD USERNAME]&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=luisgutierrez001&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </p>
 
 ---
@@ -63,9 +63,9 @@ I'm open to **full-time roles, technical collaborations, and challenging project
 
 If you're looking for a developer who can build, lead, and take ownership — let's talk.
 
-📬 **[ADD EMAIL]**  
-💼 **[ADD LINKEDIN URL]**  
-🌐 **[ADD PORTFOLIO URL]**
+📬 **luiseduardogutierrezarias982@gmail.com**  
+💼 **Coming son...**  
+🌐 **Coming son...**
 
 ---
 
