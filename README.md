@@ -1,71 +1,80 @@
----
+# Hi, I'm Luis Gutierrez 👋
+### Backend & Full-Stack Developer | Architecture, Performance, and Product Delivery
 
-## Featured Projects
-
-> These are projects that reflect how I approach real problems — not just demos.
-
----
-
-### 📁 [ADD PROJECT NAME]
-**Problem:** [What challenge did this solve?]  
-**Role:** [Your role — e.g., Lead Developer, Sole Developer, Architect]  
-**Stack:** [Technologies used]  
-**Impact:** [ADD METRIC or outcome — e.g., reduced query time by X%, handled Y users]  
-🔗 [Repository / Live Link]
+I build web platforms that are maintainable, scalable, and business-oriented.  
+My focus is turning real requirements into reliable software with clean architecture, measurable performance, and strong code quality.
 
 ---
 
-### 📁 [ADD PROJECT NAME]
-**Problem:** [What challenge did this solve?]  
+## 🚀 Featured Projects
+
+### 📁 [Project Name]
+**Problem:** [What business or technical problem did this solve?]  
+**Role:** [Lead Developer / Full-Stack / Architect]  
+**Stack:** [Node.js, Moleculer, MongoDB, MySQL, JavaScript, Bootstrap, etc.]  
+**Impact:** [e.g., reduced response time by 38%, supported 5k+ monthly users, cut manual ops by 60%]  
+🔗 [Repository] · [Live Demo]
+
+---
+
+### 📁 [Project Name]
+**Problem:** [Short context of the challenge]  
 **Role:** [Your role]  
 **Stack:** [Technologies used]  
-**Impact:** [ADD METRIC or outcome]  
-🔗 [Repository / Live Link]
+**Impact:** [Concrete metric/result]  
+🔗 [Repository] · [Live Demo]
 
 ---
 
-### 📁 [ADD PROJECT NAME]
-**Problem:** [What challenge did this solve?]  
+### 📁 [Project Name]
+**Problem:** [Short context of the challenge]  
 **Role:** [Your role]  
 **Stack:** [Technologies used]  
-**Impact:** [ADD METRIC or outcome]  
-🔗 [Repository / Live Link]
+**Impact:** [Concrete metric/result]  
+🔗 [Repository] · [Live Demo]
 
 ---
 
-## Currently Focused On
+## 🧠 Core Skills
 
-- 📐 **Scalable web architecture** — modular design, clean separation of concerns  
-- 🗄️ **Database optimization** — efficient queries, schema design, stored procedures  
-- ✅ **Code quality** — reviews, testing, documentation as a first-class concern  
-- 📋 **Technical leadership** — Scrum, team workflows, async communication  
-- 📚 **Deepening:** Advanced JavaScript patterns · Performance optimization · Architecture best practices
+- **Backend:** Node.js, Moleculer, REST APIs, service architecture
+- **Frontend:** JavaScript, HTML5, CSS3, Bootstrap
+- **Databases:** MySQL, MongoDB, query optimization, schema design
+- **Quality:** code reviews, testing, technical documentation
+- **Workflow:** Git/GitHub, Scrum, collaborative delivery
 
 ---
 
-## GitHub Activity
+## 🎯 Currently Focused On
+
+- Scalable web architecture and modular systems
+- Database performance and query tuning
+- Engineering quality: testing, readability, maintainability
+- Technical leadership and delivery ownership
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user=luisgutierrez001&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luisgutierrez001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user=luisgutierrez001&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgutierrez001&layout=compact&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=luisgutierrez001&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=luisgutierrez001&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
 </p>
 
 ---
 
-## Let's Connect
+## 🤝 Let’s Connect
 
-I'm open to **full-time roles, technical collaborations, and challenging projects** where quality and architecture matter.
+I’m open to **full-time roles**, **technical collaborations**, and projects where architecture and quality matter.
 
-If you're looking for a developer who can build, lead, and take ownership — let's talk.
-
-📬 **luiseduardogutierrezarias982@gmail.com**  
-💼 **Coming son...**  
-🌐 **Coming son...**
+📬 luiseduardogutierrezarias982@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🌐 [Portfolio](https://your-portfolio.com)
 
 ---
 
