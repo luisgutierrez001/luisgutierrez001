@@ -1,4 +1,30 @@
-<h1 align = center > Luis Eduardo Gutiérrez Arias </h1>
+<h1 align="center">
+  Luis Eduardo Gutiérrez Arias
+  <br>
+------------------------------------------------
+
+  <p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFFFFF&size=22&center=true&vCenter=true&width=600&height=44&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Aprendiz+activo+y+creativo"
+    alt="Desarrollador Full Stack"
+  />
+</p>
+</h1>
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2301696f?style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Aprendiz%20Activo%20%26%20Creativo-%234f98a3?style=flat-square&logo=lightbulb&logoColor=white" alt="Aprendiz Activo y Creativo"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apasionado%20por%20la%20Tecnología-%230c4e54?style=flat-square&logo=rocket&logoColor=white" alt="Apasionado por la Tecnología"/>
+</p>
+
+
+
+
 
 
 <img align="right" width="400" alt="Perfile" src="perfile/perfile.png"/>
