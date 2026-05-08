@@ -180,15 +180,15 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 | | |
 |---|---|
 | 📧 **Email** | [luiseduardogutierrezarias003@gmail.com](mailto:luiseduardogutierrezarias003@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/luis-eduardo-gutierrez-arias-b97b3a408/) |
+| 💼 **LinkedIn** | [linkedin.com/in/luis-eduardo-gutierrez-arias](https://www.linkedin.com/in/luis-eduardo-gutierrez-arias-b97b3a408/) |
 | 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
 
 ***
 
 <sub>📍 Mexico State &nbsp;·&nbsp; Available for remote and hybrid opportunities &nbsp;·&nbsp; Last updated: <!--LAST_UPDATED_START-->2026-05-08 05:14 UTC<!--LAST_UPDATED_END--></sub>
 
-- Email: luiseduardogutierrezarias982@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: luiseduardogutierrezarias003@gmail.com
+- LinkedIn: https://linkedin.com/in/luis-eduardo-gutierrez-arias
 - Portfolio: https://your-portfolio.com
 
 ---
