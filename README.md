@@ -2,9 +2,9 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="perfile/perfile.png"/>
 
-<h2> / about me /</h2>
+<h2>  about me </h2>
   
 I build web platforms that are maintainable, scalable, and business-oriented.
 My focus is turning real requirements into reliable software with clean architecture, measurable performance, and strong code quality.
