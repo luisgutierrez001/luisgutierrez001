@@ -1,14 +1,10 @@
 <h1 align="center">
   Luis Eduardo Gutiérrez Arias
-  <br>
-------------------------------------------------
-
-  <p align="center">
+  <img src="./divider.svg" width="600" alt="divider" />
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFFFFF&size=22&center=true&vCenter=true&width=600&height=44&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Aprendiz+activo+y+creativo"
     alt="Desarrollador Full Stack"
   />
-</p>
 </h1>
 
 
