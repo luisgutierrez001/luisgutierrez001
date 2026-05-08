@@ -1,19 +1,50 @@
-# Hi, I am Luis Gutierrez
-### Backend and Full-Stack Developer | Architecture, Performance, Product Delivery
+<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 
+<div>
+
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+<h2> / about me /</h2>
+  
 I build web platforms that are maintainable, scalable, and business-oriented.
 My focus is turning real requirements into reliable software with clean architecture, measurable performance, and strong code quality.
 
----
 
-## Value I Bring
-
+  
+<h2> / current skills / </h2>
+  
 - I design modular backend systems that are easier to evolve.
 - I improve performance with practical, measurable optimizations.
 - I ship production-ready code with documentation and ownership.
 
----
+  
+  - <h5> Core Skills </h5>
+- Backend: Node.js, Moleculer, REST APIs, modular service architecture
+- Frontend: JavaScript, HTML5, CSS3, Bootstrap
+- Databases: MySQL, MongoDB, query optimization, schema design
+- Quality: code reviews, testing mindset, technical documentation
+- Workflow: GitHub, Scrum, collaborative delivery
+  
+- <h4> Currently Focused On </h4>
+- Scalable architecture and service boundaries
+- Database performance and query tuning
+- Engineering quality and maintainability
+- Technical leadership and delivery ownership
 
+  
+- <h4> designing tools </h4>
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  
+  </br></br>
+  
+<div align="right">
+<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  </div>
+  </div>
+
+------
 ## Featured Projects
 
 ### Project: Victoria147 Platform
@@ -37,26 +68,9 @@ My focus is turning real requirements into reliable software with clean architec
 **Impact:** Reduced response time in critical reads and improved consistency in reporting flows.
 **Links:** [Repository](https://github.com/luisgutierrez001) | [Case Study](https://example.com)
 
----
 
-## Core Skills
+------
 
-- Backend: Node.js, Moleculer, REST APIs, modular service architecture
-- Frontend: JavaScript, HTML5, CSS3, Bootstrap
-- Databases: MySQL, MongoDB, query optimization, schema design
-- Quality: code reviews, testing mindset, technical documentation
-- Workflow: GitHub, Scrum, collaborative delivery
-
----
-
-## Currently Focused On
-
-- Scalable architecture and service boundaries
-- Database performance and query tuning
-- Engineering quality and maintainability
-- Technical leadership and delivery ownership
-
----
 
 ## Live GitHub Metrics
 
@@ -70,9 +84,6 @@ My focus is turning real requirements into reliable software with clean architec
   <img src="https://streak-stats.demolab.com?user=luisgutierrez001&hide_border=true" height="150" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luisgutierrez001/luisgutierrez001/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
 
 ---
 
