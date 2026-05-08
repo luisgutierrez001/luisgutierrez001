@@ -167,13 +167,6 @@ My focus is turning real requirements into reliable software with clean architec
 ***
 
 ## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisgutierrez001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160" alt="GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgutierrez001&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160" alt="Top languages"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luisgutierrez001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160" alt="GitHub streak"/>
 </p>
@@ -186,8 +179,8 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 
 | | |
 |---|---|
-| 📧 **Email** | [luiseduardogutierrezarias982@gmail.com](mailto:luiseduardogutierrezarias982@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 📧 **Email** | [luiseduardogutierrezarias003@gmail.com](mailto:luiseduardogutierrezarias003@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/luis-eduardo-gutierrez-arias-b97b3a408/) |
 | 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
 
 ***
