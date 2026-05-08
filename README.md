@@ -1,19 +1,22 @@
 <h1 align = center > Luis Eduardo Gutiérrez Arias </h1>
 
 
-
 <img align="right" width="400" alt="Perfile" src="perfile/perfile.png"/>
 
-<h2>  about me </h2>
+
+
+
+<p>  about me </p>
   
 I build web platforms that are maintainable, scalable, and business-oriented.
 My focus is turning real requirements into reliable software with clean architecture, measurable performance, and strong code quality.
 
-<h2> current skills </h2>
+<p> current skills </p>
   
-- I design modular backend systems that are easier to evolve.
-- I improve performance with practical, measurable optimizations.
-- I ship production-ready code with documentation and ownership.
+> [!TIP]
+> - I design modular backend systems that are easier to evolve.
+> - I improve performance with practical, measurable optimizations.
+> - I ship production-ready code with documentation and ownership.
   
  <h5> Core Skills </h5>
 - Backend: Node.js, Moleculer, REST APIs, modular service architecture
