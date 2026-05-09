@@ -139,11 +139,3 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 ***
 
 <sub>📍 Mexico State &nbsp;·&nbsp; Available for remote and hybrid opportunities &nbsp;·&nbsp; Last updated: <!--LAST_UPDATED_START-->2026-05-08 05:14 UTC<!--LAST_UPDATED_END--></sub>
-
-- Email: luiseduardogutierrezarias003@gmail.com
-- LinkedIn: https://www.linkedin.com/in/eduardogutiérreza
-- Portfolio: https://your-portfolio.com
-
----
-
-Mexico State | Available for remote and hybrid opportunities
