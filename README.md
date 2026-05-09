@@ -12,9 +12,8 @@
 <td width="55%" valign="top">
 
 <!-- ABOUT ME -->
-<p>
-  <span style="font-size:11px; text-transform:uppercase; letter-spacing:3px; color:#888; font-weight:500;">about me</span>
-</p>
+# About me
+
 
 <p>
 I build web platforms that are <strong>maintainable, scalable, and business-oriented</strong>.<br>
@@ -26,7 +25,7 @@ My focus is turning real requirements into reliable software with clean architec
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-%2301696f?style=flat-square&logo=briefcase&logoColor=white" alt="open to work"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/5%2B%20años%20de%20experiencia-%230c4e54?style=flat-square&logo=calendar&logoColor=white" alt="experiencia"/>
+  <img src="https://img.shields.io/badge/1%2B%20años%20de%20experiencia-%230c4e54?style=flat-square&logo=calendar&logoColor=white" alt="experiencia"/>
 </p>
 
 <p>
@@ -39,14 +38,23 @@ My focus is turning real requirements into reliable software with clean architec
   <img src="https://img.shields.io/badge/MySQL-%23171614?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Git-%23171614?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Moleculer-%23171614?style=flat-square&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-%23171614?style=flat-square&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-%23171614?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%23171614?style=flat-square&logo=mongodb&logoColor=47A248"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scrum-%23171614?style=flat-square&logo=scrumalliance&logoColor=white"/>
+
 </p>
 
 <br>
 
 <!-- CURRENT SKILLS — vertical, misma columna izquierda -->
-<p>
-  <span style="font-size:11px; text-transform:uppercase; letter-spacing:3px; color:#888; font-weight:500;">current skills</span>
-</p>
+# Current skills
 
 <p>&nbsp;<strong>Backend Architecture</strong><br>
 <span style="font-size:13px; color:#aaa;">I design modular backend systems that are easier to evolve and maintain over time.</span></p>
@@ -67,64 +75,9 @@ My focus is turning real requirements into reliable software with clean architec
 </tr>
 </table>
   
-<br>
-
 <img src="./divider.svg" width="100%" alt="divider" />
-
-<br>
-
-<!-- CORE SKILLS -->
-<p>
-  <span style="font-size:11px; text-transform:uppercase; letter-spacing:3px; color:#888; font-weight:500;">core skills</span>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-%23171614?style=flat-square&logo=nodedotjs&logoColor=6DA55F"/>
-  <img src="https://img.shields.io/badge/Moleculer-%23171614?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-%23171614?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23171614?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-%23171614?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-%23171614?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23171614?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/MySQL-%23171614?style=flat-square&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/MongoDB-%23171614?style=flat-square&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/GitHub-%23171614?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-%23171614?style=flat-square&logo=scrumalliance&logoColor=white"/>
-</p>
-
-<br>
-
-<!-- CURRENTLY FOCUSED ON -->
-<p>
-  <span style="font-size:11px; text-transform:uppercase; letter-spacing:3px; color:#888; font-weight:500;">currently focused on</span>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/▸%20Scalable%20Architecture-1a1a1a?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/▸%20Database%20Performance-1a1a1a?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/▸%20Engineering%20Quality-1a1a1a?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/▸%20Technical%20Leadership-1a1a1a?style=flat-square&logoColor=white"/>
-</p>
-
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
 ***
-
-## What I Deliver
-
-| | |
-|---|---|
-| 🏗️ **Architecture** | Modular backend systems with clear service boundaries |
-| ⚡ **Performance** | Database query tuning & latency reduction in critical operations |
-| 📋 **Documentation** | Technical docs, code reviews, and delivery ownership |
-| 🚀 **Quality** | Production-ready code with testing mindset and clean commits |
-
-***
-
 ## Featured Projects
 
 ### 🔷 Victoria147 Platform
@@ -180,7 +133,7 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 | | |
 |---|---|
 | 📧 **Email** | [luiseduardogutierrezarias003@gmail.com](mailto:luiseduardogutierrezarias003@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/luis-eduardo-gutierrez-arias](https://www.linkedin.com/in/luis-eduardo-gutierrez-arias-b97b3a408/) |
+| 💼 **LinkedIn** | [linkedin.com/in/luis-eduardo-gutierrez-arias](https://www.linkedin.com/in/eduardogutiérreza) |
 | 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
 
 ***
@@ -188,7 +141,7 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 <sub>📍 Mexico State &nbsp;·&nbsp; Available for remote and hybrid opportunities &nbsp;·&nbsp; Last updated: <!--LAST_UPDATED_START-->2026-05-08 05:14 UTC<!--LAST_UPDATED_END--></sub>
 
 - Email: luiseduardogutierrezarias003@gmail.com
-- LinkedIn: https://linkedin.com/in/luis-eduardo-gutierrez-arias
+- LinkedIn: https://www.linkedin.com/in/eduardogutiérreza
 - Portfolio: https://your-portfolio.com
 
 ---
