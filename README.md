@@ -134,7 +134,7 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 |---|---|
 | 📧 **Email** | [luiseduardogutierrezarias003@gmail.com](mailto:luiseduardogutierrezarias003@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/luis-eduardo-gutierrez-arias](https://www.linkedin.com/in/eduardogutiérreza) |
-| 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
+| 🌐 **Portfolio** | [portfolio-luis-eduardo-gutierrez-ar](https://portfolio-luis-eduardo-gutierrez-ar.vercel.app/) |
 
 ***
 
