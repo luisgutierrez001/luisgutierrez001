@@ -138,4 +138,4 @@ I'm open to full-time roles, technical collaborations, and projects where archit
 
 ***
 
-<sub>📍 Mexico State &nbsp;·&nbsp; Available for remote and hybrid opportunities &nbsp;·&nbsp; Last updated: <!--LAST_UPDATED_START-->2026-05-19 06:31 UTC<!--LAST_UPDATED_END--></sub>
+<sub>📍 Mexico State &nbsp;·&nbsp; Available for remote and hybrid opportunities &nbsp;·&nbsp; Last updated: <!--LAST_UPDATED_START-->2026-05-20 06:30 UTC<!--LAST_UPDATED_END--></sub>
