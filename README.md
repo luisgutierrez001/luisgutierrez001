@@ -76,55 +76,6 @@ My focus is turning real requirements into reliable software with clean architec
 </table>
   
 <img src="./divider.svg" width="100%" alt="divider" />
-  
-***
-## Featured Projects
-
-### 🔷 Victoria147 Platform
-> Multi-module platform for business, directory, products, and admin operations.
-
-| | |
-|---|---|
-| **Role** | Full-Stack Developer & Technical Owner |
-| **Stack** | `Node.js` · `Moleculer` · `JavaScript` · `Bootstrap` · `MySQL` · `MongoDB` |
-| **Impact** | Consolidated several workflows in one platform, reducing manual operational steps. |
-
-🔗 [Repository](https://github.com/luisgutierrez001) · [Live Demo](https://example.com)
-
-***
-
-### 🔷 Service-Oriented API Layer
-> Clean separation between modules for easier scalability.
-
-| | |
-|---|---|
-| **Role** | Backend Developer |
-| **Stack** | `Node.js` · `Moleculer` · `REST APIs` |
-| **Impact** | Improved maintainability by splitting business logic into standardized services. |
-
-🔗 [Repository](https://github.com/luisgutierrez001) · [Architecture Notes](https://example.com)
-
-***
-
-### 🔷 Data & Query Optimization
-> Eliminated avoidable latency in high-use endpoints.
-
-| | |
-|---|---|
-| **Role** | Backend & Database Optimization |
-| **Stack** | `MySQL` · `MongoDB` · `JavaScript` |
-| **Impact** | Reduced response time in critical reads and improved consistency in reporting flows. |
-
-🔗 [Repository](https://github.com/luisgutierrez001) · [Case Study](https://example.com)
-
-***
-
-## GitHub Metrics
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luisgutierrez001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160" alt="GitHub streak"/>
-</p>
-
-***
 
 ## Contact
 
