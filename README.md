@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Full-Stack+Software+Developer;Business+Web+Platforms;Frontend%2C+Backend%2C+APIs+and+Databases;Clean%2C+Scalable+and+Maintainable+Software"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1100&center=true&vCenter=true&width=720&height=44&lines=Full-Stack+Software+Developer;Business+Web+Platforms;Frontend%2C+Backend%2C+APIs+and+Databases;Clean%2C+Scalable+and+Maintainable+Software"
     alt="Full-Stack Software Developer"
   />
 </p>
@@ -74,8 +74,6 @@
     <td>PDF generation, image handling and process optimization</td>
   </tr>
 </table>
-
-    </td>
     <td width="42%" valign="top">
       <img width="100%" alt="Luis Eduardo Gutierrez Arias" src="perfile/perfile.png" />
     </td>
@@ -127,11 +125,12 @@
 
 ## GitHub Snapshot
 
+<!-- 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=luisgutierrez001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgutierrez001&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
-
+-->
 <p align="center">
   <img src="./divider.svg" width="100%" alt="divider" />
 </p>
