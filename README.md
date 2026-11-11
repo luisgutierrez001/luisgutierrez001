@@ -1,148 +1,95 @@
-<h1 align="center">
-  Luis Eduardo Gutierrez Arias
-</h1>
-
+<!-- Banner Principal con Soporte Estilizado -->
 <p align="center">
-  <img src="./divider.svg" width="620" alt="divider" />
+  <img src="perfile/Software_Engineer_banner.png" width="100%" alt="Main Banner" style="pointer-events: none; border-radius: 8px;" />
 </p>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1100&center=true&vCenter=true&width=720&height=44&lines=Full-Stack+Software+Developer;Business+Web+Platforms;Frontend%2C+Backend%2C+APIs+and+Databases;Clean%2C+Scalable+and+Maintainable+Software"
-    alt="Full-Stack Software Developer"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%" alt="Support Bar" style="pointer-events: none; opacity: 0.8;" />
 </p>
 
-<p align="center">
-  <a href="mailto:luiseduardogutierrezarias003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-171614?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardoguti%C3%A9rreza">
-    <img src="https://img.shields.io/badge/LinkedIn-171614?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-luis-eduardo-gutierrez-ar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-171614?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<br>
 
-<br />
+<!-- Sección Quién Soy: Tarjeta Moderna sin Tablas Tradicionales -->
+<div style="background: rgba(22, 27, 34, 0.6); border: 1px solid #30363d; border-radius: 16px; padding: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+  <table width="100%" style="border: none; background: transparent;">
+    <tr>
+      <td width="62%" valign="top" style="border: none; padding-right: 20px;">
+        <h2 style="margin-top: 0; color: #58a6ff;">👋 Hello, I'm Luis Eduardo Gutiérrez Arias</h2>
+        <p style="font-size: 15px; line-height: 1.6; color: #c9d1d9;">
+          I am a <strong>Software Engineer</strong> specializing in full-stack web applications, proficient in both backend and frontend development Mexico. I am <strong>21 years old</strong>, self-taught, hard-working, and deeply passionate about technology, constant evolution, and everything related to Artificial Intelligence.
+        </p>
+        <p style="font-size: 15px; line-height: 1.6; color: #c9d1d9;">
+          Currently, I am intensely focusing on expanding my expertise in AI engineering, with aspirations to pursue a master's degree abroad. My goal is to build scalable, high-performance solutions while continuously pushing the boundaries of what web platforms can achieve.
+        </p>
+        <p style="font-size: 14px; color: #8b94e0; font-style: italic;">
+          This profile serves as a brief introduction. Feel free to explore my full background, professional experience, and achievements via my links below!
+        </p>
+      </td>
+      <td width="38%" align="center" valign="middle" style="border: none;">
+        <!-- Marco Moderno para la Selfie -->
+        <div style="background: #0d1117; border: 2px solid #58a6ff; border-radius: 14px; padding: 12px; display: inline-block; box-shadow: 0 4px 12px rgba(88, 166, 255, 0.2);">
+          <img src="perfile/perfile.png" width="180px" alt="Luis Eduardo Gutiérrez Arias" style="border-radius: 10px; pointer-events: none; display: block; margin-bottom: 8px;" /><br>
+          <span style="font-size: 12px; color: #8b949e; font-weight: bold; letter-spacing: 0.5px;">JUNIOR FULL STACK</span> Mexico
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<br>
 
-<h2>About</h2>
+<!-- Sección de Tecnologías: Contenedor con Diseño Limpio -->
+<div align="center" style="background: rgba(13, 17, 23, 0.5); border: 1px solid #30363d; border-radius: 16px; padding: 20px;">
+  <h3 style="color: #58a6ff; margin-bottom: 15px;">🎯 &nbsp;Tech Stack & Tools</h3>
+  
+  <p style="font-size: 13px; color: #8b949e; margin-bottom: 8px; font-weight: bold;">LANGUAGES & FRAMEWORKS</p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,php,mysql,py,cpp,html,css,mongodb,laravel,js,ts,react,nextjs,nodejs" style="pointer-events: none; margin-bottom: 15px;" />
+  
+  <p style="font-size: 13px; color: #8b949e; margin-bottom: 8px; font-weight: bold;">TOOLS & INFRASTRUCTURE</p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,firebase,postman,windows,linux,powershell,notion,docker,postgresql" style="pointer-events: none;" />
+</div>
 
-<p>
-  I am a <strong>Full-Stack Software Developer</strong> focused on building business web platforms that are clear, scalable and maintainable.
-</p>
+<br>
 
-<p>
-  I work across frontend, backend, databases and API integrations, turning operational needs into practical digital products. My experience includes administrative modules, personnel management systems, MySQL optimization, REST APIs, PDF generation and responsive interfaces.
-</p>
+<!-- Sección de Proyectos Destacados (Estilo Tarjetas Modernas) -->
+<div style="background: rgba(22, 27, 34, 0.6); border: 1px solid #30363d; border-radius: 16px; padding: 24px;">
+  <h2 style="color: #58a6ff; margin-top: 0;">🚀 Featured Projects</h2>
+  <p style="color: #8b949e; font-size: 14px; margin-bottom: 20px;">
+    Here are a few selected projects that showcase my experience building full-stack web solutions. For a deeper look, check out my <a href="https://tu-portafolio.com" style="color: #58a6ff;">Portfolio</a> or <a href="https://linkedin.com/in/tu-linkedin" style="color: #58a6ff;">LinkedIn</a>.
+  </p>
 
-<p>
-  I care about clean structure, performance, usability and software that remains easy to evolve after the first release.
-</p>
-
-<br />
-
-<p>
-  <img src="https://img.shields.io/badge/Mexico-171614?style=flat-square&logo=googlemaps&logoColor=white" alt="Mexico" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-01696F?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Full--Stack-0C4E54?style=flat-square&logo=codeforces&logoColor=white" alt="Full-stack" />
-  <img src="https://img.shields.io/badge/Business%20Systems-1F6FEB?style=flat-square&logo=abstract&logoColor=white" alt="Business systems" />
-</p>
-
-<h3>Core Focus</h3>
-
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>Responsive, clean and usable interfaces</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Business logic, APIs and modular services</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL models, queries and performance improvements</td>
-  </tr>
-  <tr>
-    <td><strong>Automation</strong></td>
-    <td>PDF generation, image handling and process optimization</td>
-  </tr>
-</table>
-    <td width="42%" valign="top">
-      <img width="100%" alt="Luis Eduardo Gutierrez Arias" src="perfile/perfile.png" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-171614?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-171614?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-171614?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-171614?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-171614?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
-  <img src="https://img.shields.io/badge/PHP-171614?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-171614?style=flat-square&logo=nodedotjs&logoColor=6DA55F" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-171614?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-171614?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-171614?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST%20APIs-171614?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Git-171614?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Scrum-171614?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
-</p>
-
-<br />
-
-## Selected Work
-
-| Project | Focus | Stack |
-|---|---|---|
-| **Victoria 147** | Business platform for personnel management and internal operations | JavaScript, PHP, MySQL, REST APIs |
-| **HR and Attendance System** | Internal system for attendance, records, permissions and operational control | PHP, JavaScript, MySQL |
-| **SaborBot** | Academic web app with chatbot, personalized recipes and smart search | Next.js, Tailwind CSS, APIs |
-| **Axolote** | Predictive incident analysis with data cleaning and visualization | Node.js, Python, Power BI |
-
-<br />
-
-## Professional Highlights
-
-- Built and maintained real business modules for administrative workflows.
-- Integrated REST APIs between frontend, backend and relational databases.
-- Improved SQL queries and data handling for operational reporting.
-- Worked with iterative delivery, daily task tracking and continuous improvement.
-- Developed projects that combine product thinking, usability and technical execution.
-
-<br />
-
-## GitHub Snapshot
-
-<!-- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luisgutierrez001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgutierrez001&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
--->
-<p align="center">
-  <img src="./divider.svg" width="100%" alt="divider" />
-</p>
-
-## Contact
-
-I am open to full-time roles, technical collaborations and projects where maintainability, architecture and product quality matter.
-
-| Channel | Link |
-|---|---|
-| **Email** | [luiseduardogutierrezarias003@gmail.com](mailto:luiseduardogutierrezarias003@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/eduardogutierreza](https://www.linkedin.com/in/eduardoguti%C3%A9rreza) |
-| **Portfolio** | [portfolio-luis-eduardo-gutierrez-ar.vercel.app](https://portfolio-luis-eduardo-gutierrez-ar.vercel.app/) |
-
-<sub>Mexico State &middot; Available for remote and hybrid opportunities &middot; Last updated: 2026-07-26</sub>
+  <table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
+    <tr style="background: #0d1117;">
+      <td style="padding: 14px; border: 1px solid #30363d; border-radius: 8px 0 0 8px; width: 28%;">
+        <strong style="color: #58a6ff;">VLIM TIC HR Module</strong> Mexico
+      </td>
+      <td style="padding: 14px; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d; color: #c9d1d9; font-size: 13px; width: 52%;">
+        Full-stack administrative module featuring employee records, asset tracking, permissions management, and facial recognition integration[cite: 1].
+      </td>
+      <td align="center" style="padding: 14px; border: 1px solid #30363d; border-radius: 0 8px 8px 0; width: 20%;">
+       <!-- <a href="https://tu-portafolio.com" target="_blank" style="background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold;">View Details</a> -->
+      </td>
+    </tr>
+    <tr style="background: #0d1117;">
+      <td style="padding: 14px; border: 1px solid #30363d; border-radius: 8px 0 0 8px;">
+        <strong style="color: #58a6ff;">Victoria 147 & Landeros</strong> Mexico
+      </td>
+      <td style="padding: 14px; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d; color: #c9d1d9; font-size: 13px;">
+        Development of responsive web interfaces and optimized navigation structures to elevate digital presence and client usability[cite: 1].
+      </td>
+      <td align="center" style="padding: 14px; border: 1px solid #30363d; border-radius: 0 8px 8px 0;">
+       <!-- <a href="https://tu-portafolio.com" target="_blank" style="background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold;">View Details</a> -->
+      </td>
+    </tr>
+    <tr style="background: #0d1117;">
+      <td style="padding: 14px; border: 1px solid #30363d; border-radius: 8px 0 0 8px;">
+        <strong style="color: #58a6ff;">PROYECTO STATS USER</strong>
+      </td>
+      <td style="padding: 14px; border-top: 1px solid #30363d; border-bottom: 1px solid #30363d; color: #c9d1d9; font-size: 13px;">
+        Gamified personal metrics tracking mobile application integrating video game-style status screens, streak tracking, and leveling systems.
+      </td>
+      <td align="center" style="padding: 14px; border: 1px solid #30363d; border-radius: 0 8px 8px 0;">
+        <!-- <a href="https://github.com/tu-usuario/proyecto-stats-user" target="_blank" style="background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 12px; font-weight: bold;">GitHub Repo</a> -->
+      </td>
+    </tr>
+  </table>
+</div>
